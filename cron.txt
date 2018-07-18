@@ -1,0 +1,2 @@
+*/30 10-23 * * 0,6 export DISPLAY=:0 && export LANG=en_US.UTF-8 && cd /home/lis/bin/cbr && ./dollar.py
+
